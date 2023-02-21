@@ -1,6 +1,12 @@
 # **Hello there** 👋
 
-Still under construction...
+
+
+
+- [x] Hello there
+- [ ] About Me
+- [ ] Link to repo
+- [ ] Finishing touches
 <!--
 **Toppics/Toppics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
