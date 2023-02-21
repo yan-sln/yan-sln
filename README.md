@@ -9,7 +9,7 @@
 - [ ] Finishing touches
 
 You should check this one :
-[Sine Saloum](../Sine-Saloum/)
+[Sine Saloum](https://github.com/Toppics/Sine-Saloum/)
 <!--
 **Toppics/Toppics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
