@@ -72,6 +72,9 @@ Exploration of game development in C++, inspired by the board game and using con
 | 📅 [**SAT-based Staff Scheduling**](https://github.com/yan-sln/sat-planning) | Constraint-based scheduling system with a SAT solver for fair multi-week timetables. | Python, Clingo |
 | 🚢 [**3D Ship Models**](https://github.com/yan-sln/Nautical3DModels) | CAD models (AMF, FreeCAD) created for ship repairs during my Atlantic crossing. | FreeCAD, AMF |
 | 🖥️ [**Raspberry Pi Automation**](https://github.com/yan-sln/RaspMe) | Configurations for deploying Raspberry Pi setups across different applications. | Bash, Linux |
+| 📊 [**Mathematical & Demographic Modeling**](https://github.com/yan-sln/MT39--Mathematical-Demographic-Modeling-Project) | Three modules: exponential growth & numerical methods, Lotka-Volterra predator-prey models, and demographic simulations with visualizations. | Python, NumPy, Matplotlib, Pandas |
+| 🐾 [**Veterinary Clinic Management**](https://github.com/yan-sln/NF18) | Database project for managing a veterinary clinic: clients, animals, staff, medications, and medical records, with SQL, NoSQL, and Python app | Python, SQL, NoSQL, UML |
+
 
 ---
 
