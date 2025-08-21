@@ -31,7 +31,7 @@ Generates annotated maps of the Sine Saloum region.
 
 ![Sine Saloum Map](https://user-images.githubusercontent.com/110732997/220370356-804d294e-cd22-4a8b-aaeb-c1270a721d2c.png)
 
-**Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=python&logoColor=white)
+**Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-SentinelHub-11557c?logo=python&logoColor=white)
 
 </td>
 <td width="50%" align="center">
