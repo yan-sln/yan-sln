@@ -74,6 +74,7 @@ Exploration of game development in C++, inspired by the board game and using con
 | 🖥️ [**Raspberry Pi Automation**](https://github.com/yan-sln/RaspMe) | Configurations for deploying Raspberry Pi setups across different applications. | Bash, Linux |
 | 📊 [**Mathematical & Demographic Modeling**](https://github.com/yan-sln/MT39--Mathematical-Demographic-Modeling-Project) | Three modules: exponential growth & numerical methods, Lotka-Volterra predator-prey models, and demographic simulations with visualizations. | Python, NumPy, Matplotlib, Pandas |
 | 🐾 [**Veterinary Clinic Management**](https://github.com/yan-sln/NF18) | Database project for managing a veterinary clinic: clients, animals, staff, medications, and medical records, with SQL, NoSQL, and Python app | Python, SQL, NoSQL, UML |
+| 🎲 [**Free Will Theorem**](https://github.com/yan-sln/Free-Will-Theorem) | Computational study of Conway & Kochen’s Free Will Theorem: Peres’ 33 directions, orthogonality relations, KSCA lemma, graphs, and symmetries | Python, NumPy, Matplotlib, NetworkX, SageMath |
 
 
 ---
