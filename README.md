@@ -1,16 +1,16 @@
 # Hello there ! 👋  
 
 I'm a **self-taught developer** who learns by building.  
-Most of my projects start with a real problem I encounter — and coding becomes my way to create a solution.  
+Most of my projects start with a real problem I encounter – and coding becomes my way to create a solution.  
 
-> 💡 *"I don’t just learn to code — I code to learn."*  
+> 💡 *"I don’t just learn to code – I code to learn."*  
 
 ---
 
 ## 🚀 About Me  
 
 - 🎓 Engineering student bridging **Computer Science**, **Biology** and **Humanities and Social Sciences**.  
-- 🌍 I see **computer science as a toolbox** to explore, model, and solve real-world challenges —  
+- 🌍 I see **computer science as a toolbox** to explore, model, and solve real-world challenges –  
   from biology and data to automation and creativity.  
 - 🔭 I mainly code using **Object-Oriented Programming (OOP)** principles.  
 - ⚡ I enjoy connecting technology with everyday life: automation, creativity, and efficiency.  
